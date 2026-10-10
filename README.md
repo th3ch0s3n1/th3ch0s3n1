@@ -19,7 +19,7 @@ I learn by building tools, breaking things in a lab and writing down what I find
 
 - 🔬 Researching the security of Wi-Fi routers ([independent security research](https://github.com/th3ch0s3n1/security-research))
 - 🎬 Working on new videos for my YouTube channel
-- 🏃 Outside of tech, I run
+- 🏃 Outside of tech, I run and lift heavy weights 🏋️
 
 ## 🎥 YouTube
 
